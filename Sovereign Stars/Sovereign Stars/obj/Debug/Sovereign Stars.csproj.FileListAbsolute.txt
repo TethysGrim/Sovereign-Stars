@@ -1,0 +1,36 @@
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe.config
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.pdb
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csprojResolveAssemblyReference.cache
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Form1.resources
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Properties.Resources.resources
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csproj.GenerateResource.Cache
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.exe
+c:\users\mitchell\documents\visual studio 2012\Projects\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.pdb
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe.config
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.exe
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.pdb
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.pdb
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csprojResolveAssemblyReference.cache
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Form1.resources
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Properties.Resources.resources
+C:\Users\Aescula\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csproj.GenerateResource.Cache
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe.config
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.exe
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.pdb
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Form1.resources
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Properties.Resources.resources
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csproj.GenerateResource.Cache
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe
+C:\Users\Mitchell\Dropbox\DCG-Aesc\4X\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.pdb
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe.config
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.exe
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.pdb
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.exe
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\bin\Debug\Sovereign Stars.pdb
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Form1.resources
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign_Stars.Properties.Resources.resources
+C:\Users\Mitchell\Dropbox\Public\Sovereign Stars\Sovereign Stars\obj\Debug\Sovereign Stars.csproj.GenerateResource.Cache
